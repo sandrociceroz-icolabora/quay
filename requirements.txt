@@ -95,7 +95,7 @@ os-service-types==1.7.0
 oslo.config==7.0.0
 oslo.i18n==3.25.1
 oslo.serialization==2.29.2
-oslo.utils==3.42.1
+oslo.utils==4.10.1
 pathlib2==2.3.5
 pathspec==0.7.0
 pathvalidate==2.0.1
